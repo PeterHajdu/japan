@@ -1,59 +1,127 @@
-vegetable	やさい	deck#2	due@2023-11-21 19:09:24
-fruit	くだもの	deck#2	due@2023-11-21 19:09:50
-to sell	うる	deck#2	due@2023-11-21 19:11:26
-grape	ぶどう	deck#2	due@2023-11-21 19:10:42
-plant	しょくぶつ	deck#2	due@2023-11-21 19:12:05
-to work	はたらく	deck#2	due@2023-11-21 19:11:24
-three years left	あと さんねん です	deck#2	due@2023-11-21 19:11:19
+between	あいだ	deck#3	due@2023-11-23 05:52:42
+neighbour	となり	deck#3	due@2023-11-23 05:17:52
+on the side	よこ	deck#3	due@2023-11-23 05:53:11
+next to	そば	deck#2	due@2023-11-22 20:14:30
+behind	うしろ	deck#3	due@2023-11-23 05:16:54
+before	まえ	deck#3	due@2023-11-23 05:47:53
+under	した	deck#3	due@2023-11-23 05:51:08
+over	うえ	deck#3	due@2023-11-23 05:48:59
+noone	だれも	deck#3	due@2023-11-23 05:14:57
+someone	だれか	deck#3	due@2023-11-23 05:15:30
+nothing	なにも	deck#3	due@2023-11-23 05:50:23
+something	なにか	deck#3	due@2023-11-23 05:49:05
+nowhere	どこも	deck#3	due@2023-11-23 05:50:27
+somewhere	どこか	deck#3	due@2023-11-23 05:50:37
+Whose?	だれの ですか。	deck#3	due@2023-11-23 05:17:32
+Who?	だれ ですか。	deck#3	due@2023-11-23 05:16:48
+Where?	どこ ですか。	deck#3	due@2023-11-23 05:17:55
+Which?	どれ ですか。	deck#3	due@2023-11-23 05:49:33
+a	ア	deck#3	due@2023-11-23 05:15:13
+i	イ	deck#3	due@2023-11-23 05:52:01
+u	ウ	deck#3	due@2023-11-23 05:50:05
+e	エ	deck#3	due@2023-11-23 05:48:30
+o	オ	deck#3	due@2023-11-23 05:49:23
+ka	カ	deck#3	due@2023-11-23 05:17:49
+ki	キ	deck#3	due@2023-11-23 05:49:57
+ku	ク	deck#3	due@2023-11-23 05:16:43
+ke	ケ	deck#3	due@2023-11-23 06:04:22
+ko	コ	deck#3	due@2023-11-23 05:16:14
+sa	サ	deck#3	due@2023-11-23 05:51:56
+shi	シ	deck#3	due@2023-11-23 05:49:10
+su	ス	deck#3	due@2023-11-23 05:51:39
+se	セ	deck#2	due@2023-11-22 20:14:15
+so	ソ	deck#3	due@2023-11-23 06:03:46
+ta	タ	deck#3	due@2023-11-23 05:51:52
+chi	チ	deck#3	due@2023-11-23 05:17:47
+tsu	ツ	deck#3	due@2023-11-23 05:53:05
+te	テ	deck#3	due@2023-11-23 05:17:20
+to	ト	deck#3	due@2023-11-23 05:17:22
+na	ナ	deck#3	due@2023-11-23 06:04:03
+ni	ニ	deck#3	due@2023-11-23 05:49:39
+nu	ヌ	deck#2	due@2023-11-22 20:14:27
+ne	ネ	deck#3	due@2023-11-23 05:51:16
+no	ノ	deck#2	due@2023-11-22 20:14:12
+ha	ハ	deck#3	due@2023-11-23 05:52:38
+hi	ヒ	deck#3	due@2023-11-23 05:17:38
+fu	フ	deck#3	due@2023-11-23 05:52:15
+he	ヘ	deck#3	due@2023-11-23 06:04:05
+ho	ホ	deck#3	due@2023-11-23 05:48:24
+ma	マ	deck#3	due@2023-11-23 05:17:35
+mi	ミ	deck#3	due@2023-11-23 05:51:58
+mu	ム	deck#3	due@2023-11-23 05:49:28
+me	メ	deck#2	due@2023-11-22 20:14:19
+mo	モ	deck#3	due@2023-11-23 05:52:34
+ya	ヤ	deck#3	due@2023-11-23 05:50:20
+yu	ユ	deck#3	due@2023-11-23 05:49:55
+yo	ヨ	deck#3	due@2023-11-23 05:49:15
+ra	ラ	deck#3	due@2023-11-23 05:48:51
+ri	リ	deck#3	due@2023-11-23 05:49:07
+ru	ル	deck#3	due@2023-11-23 05:49:37
+re	レ	deck#3	due@2023-11-23 05:52:36
+ro	ロ	deck#3	due@2023-11-23 05:50:18
+wa	ワ	deck#3	due@2023-11-23 05:51:48
+wo	ヲ	deck#3	due@2023-11-23 06:03:53
+n	ン	deck#3	due@2023-11-23 05:48:45
+You can't use the computer.	コンピュウタア お つかってはいけません。	deck#3	due@2023-11-23 01:26:02
+You can use the computer.	コンピュウタア お つかってもいいです。	deck#3	due@2023-11-23 01:28:27
+Can I use the computer?	コンピュウタア お つかってもいいですか。	deck#3	due@2023-11-23 01:25:44
+to make noise	さわぐ	deck#3	due@2023-11-23 05:08:11
+vegetable	やさい	deck#4	due@2023-11-23 19:13:54
+fruit	くだもの	deck#4	due@2023-11-23 19:11:57
+to sell	うる	deck#3	due@2023-11-23 01:26:14
+grape	ぶどう	deck#4	due@2023-11-23 19:10:17
+plant	しょくぶつ	deck#3	due@2023-11-23 05:11:54
+to work	はたらく	deck#3	due@2023-11-23 01:25:49
+three years left	あと さんねん です	deck#4	due@2023-11-23 19:11:07
 sibling	きょうだい	deck#7	due@2023-11-25 07:25:15
 other's kids	おこさん	deck#7	due@2023-11-25 07:25:07
 my kids	こども	deck#7	due@2023-11-23 17:23:13
-to hand over	わたす	deck#4	due@2023-11-22 07:25:27
+to hand over	わたす	deck#5	due@2023-11-24 07:44:23
 how many	いくつ	deck#7	due@2023-11-23 17:23:17
-to leave (for someone's caring)	あずける	deck#2	due@2023-11-21 19:11:51
+to leave (for someone's caring)	あずける	deck#4	due@2023-11-23 19:07:35
 luggage	にもつ	deck#7	due@2023-11-23 17:23:30
-to pay	はらう	deck#4	due@2023-11-22 07:24:44
-timetable, schedule	じこくひょう	deck#6	due@2023-11-22 07:09:04
-receive	もらう	deck#6	due@2023-11-22 07:09:52
+to pay	はらう	deck#5	due@2023-11-24 07:42:20
+timetable, schedule	じこくひょう	deck#3	due@2023-11-23 01:29:26
+receive	もらう	deck#7	due@2023-11-26 07:44:57
 receive from above	いただく	deck#5	due@2023-11-23 19:01:44
 give downwords	くれる、くださる	deck#6	due@2023-11-24 19:00:20
 give upwords	さし、 あげる	deck#6	due@2023-11-24 19:02:11
 other, different	ほか	deck#7	due@2023-11-23 17:23:40
 to hurry, to rush	いそぐ	deck#8	due@2023-11-26 18:59:59
-operation (of machine), driving	うんてん	deck#6	due@2023-11-22 07:10:10
-to get on	のる	deck#6	due@2023-11-22 07:09:07
+operation (of machine), driving	うんてん	deck#7	due@2023-11-26 07:42:15
+to get on	のる	deck#7	due@2023-11-26 07:42:25
 anything	なにでも	deck#8	due@2023-11-26 18:59:19
-to be troubled	こまる	deck#6	due@2023-11-22 07:10:13
-foreign country	がいこく	deck#6	due@2023-11-22 07:09:40
+to be troubled	こまる	deck#7	due@2023-11-26 07:49:55
+foreign country	がいこく	deck#7	due@2023-11-26 07:42:18
 to go in, to enter, to arrive	はいる	deck#7	due@2023-11-23 17:23:46
 to stop (sth)	とめる	deck#8	due@2023-11-26 19:01:38
 to stop (moving)	とまる	deck#7	due@2023-11-25 18:59:14
-to use	つかう	deck#3	due@2023-11-22 04:59:56
+to use	つかう	deck#4	due@2023-11-23 07:48:35
 strange	へん	deck#8	due@2023-11-24 17:23:14
 to think about, to contemplate	かんがえる	deck#7	due@2023-11-23 07:08:57
 word, phrase	ことば	deck#7	due@2023-11-23 07:09:20
 for example	たとえば	deck#7	due@2023-11-23 17:23:35
-to open	あける	deck#2	due@2023-11-21 19:11:33
+to open	あける	deck#3	due@2023-11-23 05:48:21
 illness	びょうき	deck#8	due@2023-11-24 17:22:30
 I rarely eat.	めったに しか たべません	deck#8	due@2023-11-24 17:22:16
 I only eat apples.	りんご だけ お たべます	deck#8	due@2023-11-24 17:24:18
 I only eat apples.	りんご しか お たべません	deck#8	due@2023-11-24 17:24:14
 when the cold comes	さむさ が くるとき	deck#7	due@2023-11-23 17:23:28
 to wear on (one's head)	かぶる	deck#7	due@2023-11-23 07:10:02
-to put on (glasses, necklace)	かける	deck#3	due@2023-11-22 05:00:37
-to wear (from shoulders down)	きる	deck#3	due@2023-11-22 05:00:09
+to put on (glasses, necklace)	かける	deck#4	due@2023-11-23 07:48:11
+to wear (from shoulders down)	きる	deck#4	due@2023-11-23 07:42:23
 to wear (lower body clothing)	はく	deck#9	due@2023-11-27 18:59:32
 plum	うめ	deck#7	due@2023-11-23 17:23:10
 next year	らいねん	deck#11	due@2023-12-03 07:09:54
 last year	きょねん	deck#10	due@2023-11-24 16:20:20
-this year	ことし	deck#10	due@2023-11-22 10:58:16
+this year	ことし	deck#11	due@2023-12-06 15:27:34
 normal, ordinary	ふつう	deck#11	due@2023-12-03 07:09:12
 first of all	まず	deck#11	due@2023-11-30 06:47:23
 sleepy	ねむい	deck#11	due@2023-11-30 06:47:57
 separate, different	べつ	deck#10	due@2023-11-25 10:54:01
 question (on a test), problem	もんだい	deck#11	due@2023-12-03 07:09:38
 to help	てつだう	deck#6	due@2023-11-24 18:59:21
-I know japanese.	にほんご が できます。	deck#10	due@2023-11-22 10:57:10
+I know japanese.	にほんご が できます。	deck#11	due@2023-12-06 15:27:19
 to be able to	できる	deck#12	due@2023-12-15 10:44:47
 to be in time	まにあう	deck#12	due@2023-12-21 07:24:53
 to get lost	まよう	deck#8	due@2023-11-26 19:01:56
@@ -72,12 +140,12 @@ weather	てんき	deck#12	due@2023-12-07 07:36:12
 spring	はる	deck#12	due@2023-12-14 08:04:22
 both	どちらも	deck#12	due@2023-12-08 06:13:15
 to get up	おきる	deck#12	due@2023-12-07 07:38:07
-to be late	おくれる	deck#4	due@2023-11-22 07:24:10
+to be late	おくれる	deck#5	due@2023-11-24 07:47:57
 hot	あつい	deck#12	due@2023-12-07 07:33:51
 thank you for hard work	おつかれさま	deck#12	due@2023-12-01 06:49:58
 to forget	わすれる	deck#12	due@2023-12-01 06:49:07
 exactly, seriously	ちゃんと	deck#10	due@2023-11-24 16:20:23
-medicine	くすり	deck#3	due@2023-11-22 05:01:05
+medicine	くすり	deck#3	due@2023-11-23 01:27:28
 parents	ごりょうしん	deck#12	due@2023-12-01 06:48:23
 ambulance	きゅうきゅうしゃ	deck#8	due@2023-11-24 17:24:02
 police	けいさつ	deck#12	due@2023-12-08 06:11:39
@@ -119,8 +187,8 @@ long	ながい	deck#12	due@2023-11-24 12:22:25
 final station	しゅうてん	deck#12	due@2023-12-15 10:58:01
 how much (about)	どのぐらい	deck#12	due@2023-11-27 09:10:45
 it takes	かかります	deck#12	due@2023-12-07 07:36:09
-to discover, to find	みつける	deck#11	due@2023-11-22 06:14:51
-to send	おくる	deck#3	due@2023-11-22 05:00:26
+to discover, to find	みつける	deck#3	due@2023-11-23 05:06:52
+to send	おくる	deck#3	due@2023-11-23 05:48:42
 photo	しゃしん	deck#12	due@2023-12-15 10:43:57
 by the way	ところで	deck#12	due@2023-12-21 07:25:03
 enjoyable, fun	たのしい	deck#12	due@2023-11-24 12:22:42
@@ -131,12 +199,12 @@ park	こうえん	deck#12	due@2023-11-24 12:22:51
 soon, almost	もうすぐ	deck#12	due@2023-11-27 09:10:05
 next	つぎ	deck#12	due@2023-11-24 12:22:21
 What should I do?	どうしたらいいでしょう	deck#11	due@2023-11-30 06:47:32
-he, him	かれ	deck#12	due@2023-11-22 14:55:22
-eye	め	deck#12	due@2023-11-22 14:55:15
-glasses	めがね	deck#12	due@2023-11-22 15:02:03
-back	せ	deck#12	due@2023-11-22 14:55:58
-tall person	せがたかい	deck#12	due@2023-11-22 14:53:06
-and then, after that	それから	deck#12	due@2023-11-22 15:00:44
+he, him	かれ	deck#12	due@2023-12-22 15:27:40
+eye	め	deck#12	due@2023-12-22 15:26:41
+glasses	めがね	deck#12	due@2023-12-22 15:26:30
+back	せ	deck#12	due@2023-12-22 15:27:47
+tall person	せがたかい	deck#12	due@2023-12-22 15:26:21
+and then, after that	それから	deck#12	due@2023-12-22 15:29:44
 skillful, proficient	じょうず	deck#11	due@2023-11-30 06:47:47
 besides, in addition	ほかに、 それに	deck#11	due@2023-11-26 15:41:21
 kind, gentle	しんせつ	deck#10	due@2023-11-25 10:53:39
@@ -177,7 +245,7 @@ to sleep	ねる	deck#10	due@2023-11-25 10:53:33
 next week	らいしゅう	deck#12	due@2023-12-19 07:10:20
 make	つくる	deck#12	due@2023-12-01 06:50:50
 around(time)	ごろ	deck#12	due@2023-12-19 07:09:27
-every week	まいしゅう	deck#12	due@2023-11-22 15:00:10
+every week	まいしゅう	deck#12	due@2023-12-22 15:27:21
 always	いつも	deck#12	due@2023-12-08 06:14:39
 newspaper	しんぶん	deck#12	due@2023-11-27 09:10:37
 to lend	かす	deck#11	due@2023-11-26 15:41:54
@@ -187,23 +255,23 @@ birthday	たんじょうび	deck#12	due@2023-12-07 07:37:09
 to dance	おどる	deck#12	due@2023-12-03 13:58:27
 to sing	うたう	deck#12	due@2023-11-27 09:09:26
 to save, to rescue	たすける	deck#5	due@2023-11-23 07:26:22
-sea, ocean	うみ	deck#12	due@2023-11-22 14:56:19
+sea, ocean	うみ	deck#12	due@2023-12-22 15:29:35
 ticket gate	かいさつ	deck#11	due@2023-12-03 17:24:29
 exit	でぐち	deck#11	due@2023-11-26 15:41:08
 vendingd machine	じはんき	deck#12	due@2023-12-07 07:36:18
 stairs	かいだん	deck#12	due@2023-11-27 09:09:35
 2nd floor	にかい	deck#12	due@2023-12-07 07:37:39
-phone	でんわ	deck#12	due@2023-11-22 14:56:04
-outlet	こんせんと	deck#12	due@2023-11-22 14:58:20
-elevator	えれべえたあ	deck#12	due@2023-11-22 14:55:24
+phone	でんわ	deck#12	due@2023-12-22 15:27:44
+outlet	こんせんと	deck#12	due@2023-12-22 15:28:32
+elevator	えれべえたあ	deck#12	due@2023-12-22 15:26:39
 underground	ちか	deck#12	due@2023-11-24 12:22:24
-restroom	おてあらい	deck#12	due@2023-11-22 14:53:46
+restroom	おてあらい	deck#12	due@2023-12-22 15:27:25
 transfer	のりかえ	deck#12	due@2023-11-27 09:09:10
 trashcan	ごみばこ	deck#12	due@2023-11-27 09:11:24
 first floor	いっかい	deck#12	due@2023-12-07 07:34:25
 to clean	そうじおします	deck#8	due@2023-11-26 18:59:39
-to fish	つる	deck#6	due@2023-11-22 17:23:37
-hat	ぼうし	deck#12	due@2023-11-22 15:00:12
+to fish	つる	deck#7	due@2023-11-26 19:06:43
+hat	ぼうし	deck#3	due@2023-11-23 05:09:08
 ship	ふね	deck#12	due@2023-11-27 09:08:11
 airplane	ひこうき	deck#12	due@2023-12-01 06:51:18
 many	おおい	deck#12	due@2023-12-11 21:57:58
@@ -215,15 +283,15 @@ far, distant	とおい	deck#12	due@2023-11-27 09:09:13
 narrow, cramped	せまい	deck#12	due@2023-12-07 07:33:45
 spacious	ひろい	deck#11	due@2023-11-30 06:47:10
 weak, delicate	よわい	deck#12	due@2023-12-01 06:49:12
-strong	つよい	deck#12	due@2023-11-22 14:57:21
+strong	つよい	deck#12	due@2023-12-22 15:29:33
 slow, time consuming	おそい	deck#12	due@2023-12-19 07:08:54
-early, fast, quick	はやい	deck#12	due@2023-11-22 15:01:40
-mouse	ねずみ	deck#12	due@2023-11-22 14:58:37
+early, fast, quick	はやい	deck#12	due@2023-12-22 15:27:38
+mouse	ねずみ	deck#12	due@2023-12-22 15:29:40
 to have sth	もって いる	deck#12	due@2023-11-27 09:12:03
 to bring	もって きます	deck#12	due@2023-12-07 07:36:50
-to take, to carry	もつ	deck#12	due@2023-11-22 14:56:54
+to take, to carry	もつ	deck#12	due@2023-12-22 15:26:34
 video	どうが	deck#12	due@2023-11-27 09:08:16
-to write	かく	deck#12	due@2023-11-22 14:58:43
+to write	かく	deck#12	due@2023-12-22 15:28:02
 boring	つまらない	deck#12	due@2023-12-07 07:33:29
 to speak	はなす	deck#12	due@2023-11-27 09:10:22
 to go out	でかける	deck#12	due@2023-12-08 06:11:27
@@ -235,41 +303,41 @@ to swim	およぐ	deck#12	due@2023-12-07 07:34:41
 to do	やる	deck#11	due@2023-11-26 15:41:38
 textbook	きょうかしょ	deck#11	due@2023-11-30 06:47:49
 question	しつもん	deck#12	due@2023-12-07 07:33:39
-mouth	くち	deck#12	due@2023-11-22 14:55:17
-shellfish	かい	deck#12	due@2023-11-22 14:52:37
-new	あたらしい	deck#12	due@2023-11-22 15:01:56
-old	ふるい	deck#12	due@2023-11-22 15:00:06
-a bit	すこし	deck#12	due@2023-11-22 15:02:05
+mouth	くち	deck#12	due@2023-12-22 15:28:50
+shellfish	かい	deck#12	due@2023-12-22 15:27:10
+new	あたらしい	deck#12	due@2023-12-22 15:28:57
+old	ふるい	deck#12	due@2023-12-22 15:27:14
+a bit	すこし	deck#12	due@2023-12-22 15:26:37
 black tea	こうちゃ	deck#12	due@2023-12-07 07:36:16
-rice ball	おにぎり	deck#12	due@2023-11-22 14:53:09
+rice ball	おにぎり	deck#12	due@2023-12-22 15:27:43
 three	みっつ	deck#12	due@2023-12-19 07:08:50
-four	よっつ	deck#12	due@2023-11-22 14:52:44
-two	ふたつ	deck#12	due@2023-11-22 14:55:20
-one	ひとつ	deck#12	due@2023-11-22 14:54:29
+four	よっつ	deck#12	due@2023-12-22 15:25:27
+two	ふたつ	deck#12	due@2023-12-22 15:26:58
+one	ひとつ	deck#12	due@2023-12-22 15:26:55
 meal set	ていしょく	deck#11	due@2023-11-26 15:41:06
 lively	にぎやか (な)	deck#12	due@2023-12-11 21:58:00
-map	ちず	deck#12	due@2023-11-22 14:54:12
-subway	ちかてつ	deck#12	due@2023-11-22 15:01:43
+map	ちず	deck#12	due@2023-12-22 15:25:29
+subway	ちかてつ	deck#12	due@2023-12-22 15:28:40
 ticket	きっぷ	deck#12	due@2023-11-27 09:08:31
 listen	きく	deck#12	due@2023-12-07 07:35:22
-music	おんがく	deck#12	due@2023-11-22 14:54:43
+music	おんがく	deck#12	due@2023-12-22 15:26:17
 baseball	やきゅう	deck#12	due@2023-12-14 08:04:52
 difficult	むずかしい	deck#12	due@2023-12-15 10:43:21
 quiet	しずか (な)	deck#8	due@2023-11-24 17:23:32
-noisy	うるさい	deck#12	due@2023-11-22 14:56:27
+noisy	うるさい	deck#12	due@2023-12-22 15:29:05
 famous	ゆうめい (な)	deck#12	due@2023-11-27 09:09:58
-cool	かっこいい	deck#12	due@2023-11-22 14:52:15
+cool	かっこいい	deck#12	due@2023-12-22 15:30:00
 funny	おもしろい	deck#12	due@2023-11-27 09:08:59
-busy	いそがしい	deck#12	due@2023-11-22 14:59:56
-doctor	いしゃ	deck#12	due@2023-11-22 15:00:26
+busy	いそがしい	deck#12	due@2023-12-22 15:25:31
+doctor	いしゃ	deck#12	due@2023-12-22 15:25:33
 nurse	かんごし	deck#12	due@2023-11-24 12:22:57
 nice	やさしい	deck#11	due@2023-11-30 06:47:21
 cheerful	あかるい	deck#12	due@2023-12-15 10:45:25
 smart	あたまがいい	deck#12	due@2023-12-15 10:45:23
 my wife	つま	deck#12	due@2023-12-07 07:34:13
 daughter	むすめ	deck#12	due@2023-11-27 09:09:18
-husband	おっと	deck#12	due@2023-11-22 14:59:53
-lawyer	べんごし	deck#12	due@2023-11-22 15:01:36
+husband	おっと	deck#3	due@2023-11-23 05:06:40
+lawyer	べんごし	deck#12	due@2023-12-22 15:28:04
 fashionable	おしゃれ	deck#12	due@2023-12-11 21:58:49
 son	むすこ	deck#12	due@2023-12-07 07:34:44
 wallet	さいふ	deck#12	due@2023-12-15 10:43:52
