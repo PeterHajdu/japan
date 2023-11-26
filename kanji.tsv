@@ -1,15 +1,20 @@
-a	おおみず flood	大水
-a	たいきん a lot of money	大金
-a	DAI TAI おお(きい) おお(いに)	大
-a	DO TO つち earth, soil	土
+a	こがね、small amount	小金	deck#2	due@2023-11-26 08:20:25
+a	しょおにん, small child	小人	deck#2	due@2023-11-26 08:20:16
+a	だいしょお, size	大小	deck#2	due@2023-11-26 08:19:50
+a	ちいさい small	小さい	deck#2	due@2023-11-26 08:19:11
+a	SHO', ちい(さい)、 こ、 お	小	deck#2	due@2023-11-26 08:19:08
+a	おおみず flood	大水	deck#4	due@2023-11-27 07:11:27
+a	たいきん a lot of money	大金	deck#4	due@2023-11-27 07:11:18
+a	DAI TAI おお(きい) おお(いに)	大	deck#4	due@2023-11-27 07:11:32
+a	DO TO つち earth, soil	土	deck#3	due@2023-11-26 18:09:40
 a	ひとり one person	一人	deck#5	due@2023-11-26 09:01:50
 a	ふたり two person	二人	deck#5	due@2023-11-26 09:01:44
 a	なんいん how many people	何人	deck#5	due@2023-11-26 09:01:27
 a	KIN KON - gold, metal, かね - money	金	deck#7	due@2023-11-26 19:54:22
-a	SUI みず	水	deck#3	due@2023-11-25 17:21:28
+a	SUI みず	水	deck#4	due@2023-11-26 19:12:38
 a	KA hi ho fire	火	deck#6	due@2023-11-27 09:01:10
 a	YO' (day) of week	曜	deck#9	due@2023-11-30 19:37:21
-a	GAI, GE, そと	外	deck#4	due@2023-11-26 07:21:23
+a	GAI, GE, そと	外	deck#5	due@2023-11-28 08:08:45
 a	CHU', なか	中	deck#12	due@2023-12-07 07:39:37
 a	SA, ひだり	左	deck#11	due@2023-11-29 10:58:31
 a	U, YU', みぎ	右	deck#7	due@2023-11-26 19:54:10
@@ -30,7 +35,7 @@ a	SHI, yot(tsu), yo(tsu), yo-, yon- negy	四	deck#12	due@2023-12-22 15:31:10
 a	GO, itsu(tsu), itsu- ot	五	deck#12	due@2023-12-01 06:51:24
 a	ROKU, mut(tsu), mu(tsu), mu-, hat	六	deck#12	due@2023-12-13 07:52:08
 a	SHICHI, nana(tsu), nana, nano- het	七	deck#11	due@2023-12-06 15:30:44
-a	HACHI, yat(tsu), ya(tsu), ya, nyolc	八	deck#10	due@2023-11-25 10:54:18
+a	HACHI, yat(tsu), ya(tsu), ya, nyolc	八	deck#11	due@2023-12-09 13:21:34
 a	KYU`, KU, kokono(tsu), kokono- kilenc	九	deck#12	due@2023-11-27 09:13:50
 a	JU`, JI', to`, to- tiz	十	deck#12	due@2023-12-04 10:52:01
 a	EN - kor, yen; maru(i) - kerek	円	deck#12	due@2023-12-22 15:30:53
@@ -42,7 +47,7 @@ a	MEI, a(kari) feny, MYO' feny, kovetkezo	明	deck#11	due@2023-12-08 19:37:24
 a	TEN, みせ	店	deck#12	due@2023-12-19 07:10:33
 a	DO', TO', みち, ut, osveny	道	deck#10	due@2023-12-01 09:01:31
 a	ほん, konyv, eredet, もと	本	deck#12	due@2023-12-10 08:25:51
-a	BOKU, MOKU, き、こ	木		due@2023-11-25 07:56:17
+a	BOKU, MOKU, き、こ	木	deck#4	due@2023-11-27 07:11:37
 a	KA, はな	花	deck#12	due@2023-12-19 07:10:30
 a	えき	駅	deck#12	due@2023-12-22 15:31:24
 a	KEN, いぬ	犬	deck#12	due@2023-11-30 07:21:58
