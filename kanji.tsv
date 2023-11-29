@@ -1,17 +1,17 @@
-a	こさめ、 light rain	小雨	deck#2	due@2023-11-28 08:42:50
-a	おおあめ、 heavy rain	大雨	deck#2	due@2023-11-28 08:43:13
-a	ふうう、 wind and rain	風雨	deck#2	due@2023-11-28 08:41:25
-a	ウ、あめ、rain	雨	deck#2	due@2023-11-28 08:42:57
-a	にほんふう、 japanese style	日本風	deck#2	due@2023-11-28 08:43:19
-a	フウ、 フ、かぜ、 かざ, wind, air, style, manner	風	deck#2	due@2023-11-28 08:41:07
-a	ようび, a day of the week	曜日	deck#2	due@2023-11-28 08:38:57
+a	こさめ、 light rain	小雨	deck#2	due@2023-11-29 07:02:46
+a	おおあめ、 heavy rain	大雨	deck#2	due@2023-11-29 07:02:48
+a	ふうう、 wind and rain	風雨	deck#2	due@2023-11-29 07:03:39
+a	ウ、あめ、rain	雨	deck#3	due@2023-11-29 16:53:28
+a	にほんふう、 japanese style	日本風	deck#3	due@2023-11-29 16:51:09
+a	フウ、 フ、かぜ、 かざ, wind, air, style, manner	風	deck#2	due@2023-11-29 07:03:57
+a	ようび, a day of the week	曜日	deck#3	due@2023-11-29 16:52:20
 a	こがね、small amount	小金	deck#4	due@2023-11-29 08:29:26
 a	しょおにん, small child	小人	deck#4	due@2023-11-29 08:29:54
 a	だいしょお, size	大小	deck#4	due@2023-11-29 08:30:40
-a	ちいさい small	小さい	deck#4	due@2023-11-28 09:36:15
-a	SHO', ちい(さい)、 こ、 お	小	deck#2	due@2023-11-28 08:42:38
+a	ちいさい small	小さい	deck#5	due@2023-12-01 06:53:34
+a	SHO', ちい(さい)、 こ、 お	小	deck#3	due@2023-11-29 16:53:06
 a	おおみず flood	大水	deck#5	due@2023-11-29 09:37:18
-a	たいきん a lot of money	大金	deck#2	due@2023-11-28 08:42:20
+a	たいきん a lot of money	大金	deck#3	due@2023-11-29 16:52:16
 a	DAI TAI おお(きい) おお(いに)	大	deck#5	due@2023-11-29 09:36:11
 a	DO TO つち earth, soil	土	deck#4	due@2023-11-29 08:28:42
 a	ひとり one person	一人	deck#6	due@2023-11-29 11:35:30
@@ -37,7 +37,7 @@ a	JIN, NIN, ひと, ember szemely, ひとびと emberek	人	deck#10	due@2023-12-
 a	ICHI, ITSU, hito(tsu), hito- egy	一	deck#12	due@2023-11-30 07:21:47
 a	NI, futa(tsu) futa- ketto	ニ	deck#12	due@2023-12-19 07:10:58
 a	SAN, mit(tsu), mi- harom	三	deck#12	due@2023-11-30 07:21:56
-a	NICHI, JITSU, hi, -ka, nap, ついたち、 ふつか、 みっか	日	deck#7	due@2023-11-28 19:37:27
+a	NICHI, JITSU, hi, -ka, nap, ついたち、 ふつか、 みっか	日	deck#8	due@2023-12-04 06:50:52
 a	SHI, yot(tsu), yo(tsu), yo-, yon- negy	四	deck#12	due@2023-12-22 15:31:10
 a	GO, itsu(tsu), itsu- ot	五	deck#12	due@2023-12-01 06:51:24
 a	ROKU, mut(tsu), mu(tsu), mu-, hat	六	deck#12	due@2023-12-13 07:52:08
@@ -63,7 +63,7 @@ a	CHO', とり	鳥	deck#12	due@2023-12-22 15:30:31
 a	FU, ちち, お父さん	父	deck#4	due@2023-11-29 08:32:43
 a	BO, はは, お母さん	母	deck#12	due@2023-12-10 08:25:39
 a	KEI, KYO', あに, お兄さん	兄	deck#12	due@2023-12-22 07:51:23
-a	TEI, DAI, DE, おとうと, お弟さん	弟	deck#7	due@2023-11-28 09:01:40
+a	TEI, DAI, DE, おとうと, お弟さん	弟	deck#8	due@2023-12-04 06:53:24
 
 
 #--decks immediate,10min,1h,1d,2d,3d,4d,5d,6d,1w,2w,monthly
