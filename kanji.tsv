@@ -1,9 +1,9 @@
-a	こさめ、 light rain	小雨	deck#3	due@2023-11-30 04:31:36
-a	おおあめ、 heavy rain	大雨	deck#3	due@2023-11-30 04:29:47
-a	ふうう、 wind and rain	風雨	deck#3	due@2023-11-30 04:31:16
-a	ウ、あめ、rain	雨	deck#3	due@2023-11-30 04:59:47
+a	こさめ、 light rain	小雨	deck#4	due@2023-12-01 06:56:37
+a	おおあめ、 heavy rain	大雨	deck#4	due@2023-12-01 06:56:42
+a	ふうう、 wind and rain	風雨	deck#4	due@2023-12-01 06:57:31
+a	ウ、あめ、rain	雨	deck#4	due@2023-12-01 06:57:35
 a	にほんふう、 japanese style	日本風	deck#4	due@2023-11-30 18:30:14
-a	フウ、 フ、かぜ、 かざ, wind, air, style, manner	風	deck#3	due@2023-11-30 04:31:58
+a	フウ、 フ、かぜ、 かざ, wind, air, style, manner	風	deck#4	due@2023-12-01 06:57:03
 a	ようび, a day of the week	曜日	deck#4	due@2023-11-30 18:29:54
 a	こがね、small amount	小金	deck#5	due@2023-12-01 18:32:20
 a	しょおにん, small child	小人	deck#5	due@2023-12-01 18:32:25
@@ -18,7 +18,7 @@ a	ひとり one person	一人	deck#7	due@2023-12-03 18:31:03
 a	ふたり two person	二人	deck#7	due@2023-12-03 18:30:58
 a	なんいん how many people	何人	deck#7	due@2023-12-03 18:29:59
 a	KIN KON - gold, metal, かね - money	金	deck#8	due@2023-12-02 09:37:52
-a	SUI みず	水	deck#3	due@2023-11-30 04:59:49
+a	SUI みず	水	deck#4	due@2023-12-01 06:57:09
 a	KA hi ho fire	火	deck#7	due@2023-12-01 09:37:38
 a	YO' (day) of week	曜	deck#9	due@2023-11-30 19:37:21
 a	GAI, GE, そと	外	deck#6	due@2023-12-01 08:29:47
@@ -31,12 +31,12 @@ a	JO', SHO', うえ, above, over	上	deck#7	due@2023-12-01 09:38:22
 a	KA, GE, した, もと、 under	下	deck#7	due@2023-12-03 18:31:44
 a	SEKI, SHAKU, あかい	赤	deck#11	due@2023-12-11 09:35:52
 a	JO, NYO, おんあ, no	女	deck#5	due@2023-12-01 18:31:01
-a	DAN, NAN, おとこ, ferfi	男	deck#11	due@2023-11-30 06:48:04
+a	DAN, NAN, おとこ, ferfi	男	deck#12	due@2023-12-30 06:57:07
 a	SHI, SU, こ, gyerek	子	deck#9	due@2023-12-05 18:30:07
 a	JIN, NIN, ひと, ember szemely, ひとびと emberek	人	deck#10	due@2023-12-01 19:37:40
-a	ICHI, ITSU, hito(tsu), hito- egy	一	deck#12	due@2023-11-30 07:21:47
+a	ICHI, ITSU, hito(tsu), hito- egy	一	deck#12	due@2023-12-30 14:09:47
 a	NI, futa(tsu) futa- ketto	ニ	deck#12	due@2023-12-19 07:10:58
-a	SAN, mit(tsu), mi- harom	三	deck#12	due@2023-11-30 07:21:56
+a	SAN, mit(tsu), mi- harom	三	deck#12	due@2023-12-30 14:09:42
 a	NICHI, JITSU, hi, -ka, nap, ついたち、 ふつか、 みっか	日	deck#8	due@2023-12-04 06:50:52
 a	SHI, yot(tsu), yo(tsu), yo-, yon- negy	四	deck#12	due@2023-12-22 15:31:10
 a	GO, itsu(tsu), itsu- ot	五	deck#12	due@2023-12-01 06:51:24
@@ -57,7 +57,7 @@ a	ほん, konyv, eredet, もと	本	deck#12	due@2023-12-10 08:25:51
 a	BOKU, MOKU, き、こ	木	deck#6	due@2023-12-02 18:29:50
 a	KA, はな	花	deck#12	due@2023-12-19 07:10:30
 a	えき	駅	deck#12	due@2023-12-22 15:31:24
-a	KEN, いぬ	犬	deck#12	due@2023-11-30 07:21:58
+a	KEN, いぬ	犬	deck#12	due@2023-12-30 14:09:51
 a	GYO, さかな, uo	魚	deck#12	due@2023-12-01 06:51:52
 a	CHO', とり	鳥	deck#12	due@2023-12-22 15:30:31
 a	FU, ちち, お父さん	父	deck#5	due@2023-12-01 18:30:23
