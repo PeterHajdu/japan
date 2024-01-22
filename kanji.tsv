@@ -20,7 +20,7 @@ a	なんいん how many people	何人	deck#12	due@2024-02-07 01:00:00
 a	KIN KON - gold, metal, かね - money	金	deck#12	due@2024-01-31 01:00:00
 a	SUI みず	水	deck#12	due@2024-02-14 01:00:00
 a	KA hi ho fire	火	deck#12	due@2024-02-04 01:00:00
-a	YO' (day) of week	曜	deck#12	due@2024-01-22 01:00:00
+a	YO' (day) of week	曜	deck#12	due@2024-02-21 01:00:00
 a	GAI, GE, そと	外	deck#12	due@2024-02-09 01:00:00
 a	CHU', なか	中	deck#12	due@2024-02-05 01:00:00
 a	SA, ひだり	左	deck#12	due@2024-01-29 01:00:00
@@ -29,8 +29,8 @@ a	GO, のち, late, afterwards, うしろ, behind	後	deck#12	due@2024-02-19 01:
 a	ZEN, まえ, in front, before	前	deck#12	due@2024-02-10 01:00:00
 a	JO', SHO', うえ, above, over	上	deck#7	due@2024-01-25 01:00:00
 a	KA, GE, した, もと、 under	下	deck#12	due@2024-02-20 01:00:00
-a	SEKI, SHAKU, あかい	赤	deck#7	due@2024-01-22 01:00:00
-a	JO, NYO, おんあ, no	女	deck#10	due@2024-01-22 01:00:00
+a	SEKI, SHAKU, あかい	赤	deck#8	due@2024-01-27 01:00:00
+a	JO, NYO, おんあ, no	女	deck#2	due@2024-01-23 01:00:00
 a	DAN, NAN, おとこ, ferfi	男	deck#12	due@2024-01-29 01:00:00
 a	SHI, SU, こ, gyerek	子	deck#12	due@2024-01-26 01:00:00
 a	JIN, NIN, ひと, ember szemely, ひとびと emberek	人	deck#12	due@2024-02-14 01:00:00
@@ -38,16 +38,16 @@ a	ICHI, ITSU, hito(tsu), hito- egy	一	deck#12	due@2024-01-29 01:00:00
 a	NI, futa(tsu) futa- ketto	ニ	deck#12	due@2024-02-17 01:00:00
 a	SAN, mit(tsu), mi- harom	三	deck#12	due@2024-01-29 01:00:00
 a	NICHI, JITSU, hi, -ka, nap, ついたち、 ふつか、 みっか	日	deck#12	due@2024-01-31 01:00:00
-a	SHI, yot(tsu), yo(tsu), yo-, yon- negy	四	deck#12	due@2024-01-22 01:00:00
+a	SHI, yot(tsu), yo(tsu), yo-, yon- negy	四	deck#12	due@2024-02-21 01:00:00
 a	GO, itsu(tsu), itsu- ot	五	deck#12	due@2024-01-31 01:00:00
 a	ROKU, mut(tsu), mu(tsu), mu-, hat	六	deck#7	due@2024-01-24 01:00:00
 a	SHICHI, nana(tsu), nana, nano- het	七	deck#12	due@2024-02-05 01:00:00
 a	HACHI, yat(tsu), ya(tsu), ya, nyolc	八	deck#12	due@2024-02-08 01:00:00
 a	KYU`, KU, kokono(tsu), kokono- kilenc	九	deck#12	due@2024-01-26 01:00:00
 a	JU`, JI', to`, to- tiz	十	deck#12	due@2024-02-02 01:00:00
-a	EN - kor, yen; maru(i) - kerek	円	deck#12	due@2024-01-22 01:00:00
+a	EN - kor, yen; maru(i) - kerek	円	deck#12	due@2024-02-21 01:00:00
 a	HYAKU szaz	百	deck#12	due@2024-02-17 01:00:00
-a	SEN, chi, 1000	千	deck#12	due@2024-01-22 01:00:00
+a	SEN, chi, 1000	千	deck#12	due@2024-02-21 01:00:00
 a	MAN 10000, BAN sok, szamtalan	万	deck#12	due@2024-02-17 01:00:00
 a	GETSU, tsuki, hold, honap; GATSU honap	月	deck#12	due@2024-02-11 01:00:00
 a	MEI, a(kari) feny, MYO' feny, kovetkezo	明	deck#12	due@2024-02-08 01:00:00
@@ -56,10 +56,10 @@ a	DO', TO', みち, ut, osveny	道	deck#12	due@2024-02-14 01:00:00
 a	ほん, konyv, eredet, もと	本	deck#12	due@2024-02-09 01:00:00
 a	BOKU, MOKU, き、こ	木	deck#11	due@2024-01-24 01:00:00
 a	KA, はな	花	deck#12	due@2024-02-17 01:00:00
-a	えき	駅	deck#12	due@2024-01-22 01:00:00
+a	えき	駅	deck#12	due@2024-02-21 01:00:00
 a	KEN, いぬ	犬	deck#12	due@2024-01-29 01:00:00
 a	GYO, さかな, uo	魚	deck#12	due@2024-01-31 01:00:00
-a	CHO', とり	鳥	deck#12	due@2024-01-22 01:00:00
+a	CHO', とり	鳥	deck#12	due@2024-02-21 01:00:00
 a	FU, ちち, お父さん	父	deck#9	due@2024-01-26 01:00:00
 a	BO, はは, お母さん	母	deck#12	due@2024-02-09 01:00:00
 a	KEI, KYO', あに, お兄さん	兄	deck#12	due@2024-02-20 01:00:00
